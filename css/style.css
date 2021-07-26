@@ -13,4 +13,9 @@ h1 {
 
 p {
   font-weight: 100;
+  color: white;
+}
+
+h3 {
+  color: red;
 }
